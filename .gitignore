@@ -3,3 +3,5 @@ ignore_my_first_python_project/
 venv/
 
 p07_qr_*.png
+
+project_11_image_downloader/images/*
