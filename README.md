@@ -2,7 +2,7 @@
 
 ## Udemy - [Federico Azzuro - 30 Great Python Projects](https://www.udemy.com/course/great-python-projects/)
 
-### Section 2:
+### Section 2: Starter projects
 
 - Project 01 - Mad Libs
   - A fun text-based game where the user provides words (nouns, verbs,
@@ -69,7 +69,7 @@
   - This project teaches creating GUIs in Python using `customtkinter`, working
     with widgets, handling user input, and updating the interface dynamically.
 
-### Section 2:
+### Section 3: Intermediate Projects
 
 - Project 13 - File sorter
   - Organizes files in a directory by moving them into folders based on their
@@ -77,3 +77,8 @@
   - This project teaches working with the filesystem using `os` and `shutil`,
     walking directory trees with `os.walk`, creating folders dynamically, and
     cleaning up empty directories.
+- Project 14 - Sentiment analysis bot
+  - Analyzes user-input text and determines its emotional tone (positive,
+    negative, or neutral) using natural language processing.
+  - This project teaches using third-party libraries (`TextBlob`), dataclasses,
+    sentiment polarity, and building interactive command-line applications.
