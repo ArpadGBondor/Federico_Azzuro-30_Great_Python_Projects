@@ -87,3 +87,9 @@
   - This project teaches working with environment variables via `dotenv`, HTTP
     requests using `requests`, error handling, and interacting with external
     APIs.
+- Project 16 - PDF reader
+  - Extracts text from a PDF file and counts the frequency of each word,
+    displaying the most common words.
+  - This project teaches working with PDFs using `PyPDF2`, regular expressions
+    for text processing, `collections.Counter` for counting, and handling text
+    data in Python.
