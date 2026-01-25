@@ -82,3 +82,8 @@
     negative, or neutral) using natural language processing.
   - This project teaches using third-party libraries (`TextBlob`), dataclasses,
     sentiment polarity, and building interactive command-line applications.
+- Project 15 - URL shortener
+  - Shortens long URLs using the Cuttly API and returns a shortened link.
+  - This project teaches working with environment variables via `dotenv`, HTTP
+    requests using `requests`, error handling, and interacting with external
+    APIs.
