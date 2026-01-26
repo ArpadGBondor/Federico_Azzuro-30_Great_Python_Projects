@@ -99,3 +99,8 @@
   - This project teaches text preprocessing, string similarity matching using
     `difflib`, dictionary lookups, and building interactive conversational
     programs.
+- Project 18/1 - Install selenium
+  - Automates a web browser to open and close websites using Selenium and
+    ChromeDriver.
+  - This project teaches browser automation, working with WebDriver, managing
+    external executables, and controlling web sessions programmatically.

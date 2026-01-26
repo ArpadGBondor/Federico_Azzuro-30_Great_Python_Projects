@@ -7,3 +7,5 @@ p07_qr_*.png
 project_11_image_downloader/images/*
 
 .env
+
+chromedriver.exe
