@@ -1,12 +1,10 @@
 import time
 from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
 
 
 class Browser:
-    def __init__(self, driver: str):
-        self.service = Service(driver)
-        self.browser = webdriver.Chrome(service=self.service)
+    def __init__(self):
+        self.browser = webdriver.Chrome()
 
     def open_page(self, url: str):
         print(f"Opening browser...")
@@ -18,7 +16,7 @@ class Browser:
 
 
 if __name__ == "__main__":
-    browser = Browser("chromedriver.exe")
+    browser = Browser()
 
     browser.open_page("https://google.com")
 
