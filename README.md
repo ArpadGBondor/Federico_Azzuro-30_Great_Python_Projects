@@ -93,3 +93,9 @@
   - This project teaches working with PDFs using `PyPDF2`, regular expressions
     for text processing, `collections.Counter` for counting, and handling text
     data in Python.
+- Project 17 - Chat bot
+  - A simple command-line chatbot that responds to user questions by finding the
+    closest matching phrase from a predefined knowledge base.
+  - This project teaches text preprocessing, string similarity matching using
+    `difflib`, dictionary lookups, and building interactive conversational
+    programs.
