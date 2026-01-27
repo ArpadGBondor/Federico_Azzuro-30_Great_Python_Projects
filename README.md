@@ -104,3 +104,8 @@
     ChromeDriver.
   - This project teaches browser automation, working with WebDriver, managing
     external executables, and controlling web sessions programmatically.
+- Project 18/2 - Email scraper
+  - Automatically visits a website and extracts email addresses from the page
+    source using browser automation and regular expressions.
+  - This project teaches headless browser automation with Selenium, page loading
+    synchronization, regex pattern matching, and basic web scraping techniques.
