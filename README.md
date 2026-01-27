@@ -109,3 +109,9 @@
     source using browser automation and regular expressions.
   - This project teaches headless browser automation with Selenium, page loading
     synchronization, regex pattern matching, and basic web scraping techniques.
+- Project 19 - Cryptocurrency alerter
+  - Fetches real-time cryptocurrency market data from the CoinGecko API and
+    monitors selected coins for price changes, triggering alerts when prices
+    move outside defined ranges.
+  - This project teaches working with public APIs, dataclasses for structured
+    data, periodic data polling, and building simple monitoring systems.
