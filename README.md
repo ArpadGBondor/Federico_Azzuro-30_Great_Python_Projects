@@ -115,3 +115,11 @@
     move outside defined ranges.
   - This project teaches working with public APIs, dataclasses for structured
     data, periodic data polling, and building simple monitoring systems.
+- Project 20 - Public API
+  - Creates a simple public web API using Flask that returns random data and
+    processes user input through URL query parameters.
+  - The project also includes a client script that sends requests and handles
+    JSON responses.
+  - This project teaches building RESTful endpoints, handling HTTP requests,
+    working with query parameters, returning structured JSON data, and consuming
+    APIs using the requests library.
