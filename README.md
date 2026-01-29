@@ -123,3 +123,10 @@
   - This project teaches building RESTful endpoints, handling HTTP requests,
     working with query parameters, returning structured JSON data, and consuming
     APIs using the requests library.
+- Project 21 – Habit Tracker
+  - Tracks daily habits by recording their time, cost, and duration, then
+    displays the data in a formatted table.
+  - The project uses dataclasses to structure habit data and converts it into a
+    Pandas DataFrame for analysis and visualization.
+  - This project teaches working with dates and times, data modeling, using
+    Pandas for data handling, and presenting results with tabulate.
