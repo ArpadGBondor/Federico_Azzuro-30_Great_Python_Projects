@@ -130,3 +130,11 @@
     Pandas DataFrame for analysis and visualization.
   - This project teaches working with dates and times, data modeling, using
     Pandas for data handling, and presenting results with tabulate.
+- Project 22 – Currency Converter
+  - A command-line currency converter that retrieves real-time exchange rates
+    from a public API and converts between different currencies.
+  - It supports API authentication using environment variables, optional caching
+    of data, and mock data for offline testing.
+  - This project teaches working with REST APIs, JSON data handling, environment
+    variables with dotenv, date/time processing, error handling, and building
+    interactive CLI applications.
