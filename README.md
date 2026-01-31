@@ -138,3 +138,12 @@
   - This project teaches working with REST APIs, JSON data handling, environment
     variables with dotenv, date/time processing, error handling, and building
     interactive CLI applications.
+- Project 23 – Headline Scraper
+  - A command-line application that scrapes headlines from the BBC News website
+    and allows users to search for specific keywords.
+  - It fetches web content using requests, parses HTML with BeautifulSoup, and
+    extracts headline data.
+  - Users can interactively search for terms using regular expressions, with
+    results displayed in a clean format.
+  - This project teaches web scraping fundamentals, handling HTTP headers, HTML
+    parsing, regex searching, data cleaning, and building interactive CLI tools.
