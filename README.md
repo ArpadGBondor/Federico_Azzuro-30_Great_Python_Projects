@@ -156,3 +156,9 @@
     accurate real-world measurements.
   - This project teaches working with location-based APIs, dataclasses, external
     libraries, error handling, and building interactive CLI applications.
+- Project 25 – Email Sender
+  - A Python script to send emails with optional image attachments using SMTP.
+  - Users can specify recipient, subject, body, and include an image file.
+  - This project teaches working with smtplib, ssl, MIME formatting
+    (MIMEMultipart, MIMEText, MIMEImage), secure connections, and handling
+    credentials for email automation.
