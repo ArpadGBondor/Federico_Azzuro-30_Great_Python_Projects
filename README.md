@@ -147,3 +147,12 @@
     results displayed in a clean format.
   - This project teaches web scraping fundamentals, handling HTTP headers, HTML
     parsing, regex searching, data cleaning, and building interactive CLI tools.
+- Project 24 – Distance Calculator
+  - A command-line tool that calculates the approximate distance between two
+    addresses using geolocation services.
+  - It converts user-provided addresses into geographic coordinates with geopy
+    and the Nominatim API.
+  - The distance between locations is computed using the geodesic formula for
+    accurate real-world measurements.
+  - This project teaches working with location-based APIs, dataclasses, external
+    libraries, error handling, and building interactive CLI applications.
