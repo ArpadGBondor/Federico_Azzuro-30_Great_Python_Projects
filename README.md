@@ -224,3 +224,13 @@
 - This project teaches working with REST APIs, environment variables for secure
   API keys, dataclasses for data modeling, error handling, data grouping, and
   formatting terminal output.
+
+#### Project 26/2 – Weather App (Official Solution)
+
+- A command-line weather application that retrieves multi-day forecast data from
+  the OpenWeatherMap API and displays it grouped by date and time.
+- The app converts raw API responses into structured objects using dataclasses
+  and formats output through custom string representations.
+- This project teaches advanced date and time handling with `datetime`,
+  separation of concerns using multiple modules, API response caching and
+  mocking, and cleaner object-oriented design.
