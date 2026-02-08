@@ -234,3 +234,21 @@
 - This project teaches advanced date and time handling with `datetime`,
   separation of concerns using multiple modules, API response caching and
   mocking, and cleaner object-oriented design.
+
+#### Project 27 – Value Predictions
+
+- A machine learning project that uses linear regression to analyze numerical
+  data and predict future values based on historical trends. The program trains
+  a model on user-provided input and output pairs, then generates predictions
+  for new input values.
+- The project splits data into training and testing sets to evaluate model
+  performance using metrics such as R² score and Mean Absolute Error. This helps
+  measure how well the regression line fits the data and how accurate the
+  predictions are on unseen examples.
+- It also includes data visualization using Matplotlib, displaying both the
+  original data points and the fitted regression line. This makes it easier to
+  understand the relationship between inputs and outputs and to interpret the
+  model’s behavior.
+- This project teaches the fundamentals of machine learning workflows in Python,
+  including data preparation, model training, evaluation, result interpretation,
+  and basic predictive analytics.
