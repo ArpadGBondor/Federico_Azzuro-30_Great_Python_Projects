@@ -252,3 +252,17 @@
 - This project teaches the fundamentals of machine learning workflows in Python,
   including data preparation, model training, evaluation, result interpretation,
   and basic predictive analytics.
+
+#### Project 28 – Telegram Bot
+
+- A Telegram chatbot built using the `python-telegram-bot` library that responds
+  to user messages in private and group chats.
+- The bot registers command handlers (/start, /help, /custom) and processes text
+  messages through an asynchronous event-driven architecture, replying with
+  generated responses.
+- It integrates the rule-based chatbot logic from Project 17, using
+  `difflib.get_close_matches` to find the closest matching question from a
+  predefined knowledge base and return an appropriate answer.
+- This project teaches working with external APIs (Telegram Bot API),
+  asynchronous programming with async/await, message and command handling, basic
+  fuzzy string matching, and structuring a modular Python application.
