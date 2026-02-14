@@ -266,3 +266,17 @@
 - This project teaches working with external APIs (Telegram Bot API),
   asynchronous programming with async/await, message and command handling, basic
   fuzzy string matching, and structuring a modular Python application.
+
+#### Project 29 – Discord Bot
+
+- A Discord chatbot built using the discord.py library that responds to messages
+  when mentioned in a server.
+- The bot loads a knowledge base from a JSON file and uses fuzzy string matching
+  (difflib. get_close_matches) to find the closest question and generate an
+  appropriate response. It supports multiple possible answers for the same
+  question, returning a random choice when needed.
+- The bot is event-driven, using asynchronous handlers for on_ready and
+  on_message events, and demonstrates how to work with Discord intents, message
+  content, and mentions.
+- This project teaches working with external APIs (Discord API), asynchronous
+  programming, modular Python code organization, file handling with JSON, fuzzy text matching, and building interactive bots that can operate in group environments.
